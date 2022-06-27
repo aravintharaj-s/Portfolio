@@ -1,0 +1,34 @@
+.skil{
+    font-family: 'Montserrat', sans-serif;
+    letter-spacing: 1.5px;
+}
+.it{
+    text-align: center;
+    margin: 3%;
+}
+img{
+    display: block;
+}
+.card{
+    font-weight: 400;
+    display: block ;
+    margin: 4%;
+    margin-right: 4%;
+    background-color:rgb(2, 2, 56);
+    color: white;
+    border-radius: 30px;
+    box-shadow: 0 1px 2px rgba(0,0,0,0.07), 
+                0 2px 4px rgba(0,0,0,0.07), 
+                0 4px 8px rgba(0,0,0,0.07), 
+                0 8px 16px rgba(0,0,0,0.07),
+                0 16px 32px rgba(0,0,0,0.07), 
+                0 32px 64px rgba(0,0,0,0.07);
+}
+.top{
+    display: flex;
+    margin-right: 13%;
+}
+.bottom{
+    display: flex;
+    margin-right: 13%;
+}

@@ -1,0 +1,24 @@
+@import "~slick-carousel/slick/slick.css";
+@import "~slick-carousel/slick/slick-theme.css";
+.projects{
+    height: 2320px;
+    width: 100%;
+    background-color: black;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+}
+.car{
+    background-color:rgb(156, 163, 255);
+    height: 700px;
+    padding: 1%;
+    border-radius: 7%;
+    width: 80%;
+    text-align: center;
+    margin-left: 10%;
+}
+.datee{
+    color: white;
+    
+}
+
