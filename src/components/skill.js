@@ -19,15 +19,16 @@ const Skill = () => {
                 <div className="it"><img src={require('../img/angularjs.png')} alt="c++"/>AngularJS</div>
                 <div className="it"><img src={require('../img/nodejs.png')} alt="html"/>NodeJS</div>
                 <div className="it"><img src={require('../img/expressjs.png')} alt="css"/>Express</div>
-                <div className="it"><img src={require('../img/reactn.png')} alt="react-native"/>REACT<br/>NATIVE</div>
+                <div className="it"><img src={require('../img/react-native.png')} alt="react-native"/>REACT<br/>NATIVE</div>
                 <div className="it"><img src={require('../img/flutter.png')} alt="flutter"/>FLUTTER</div>
                 </div>
-                <div className="bottom" style={{marginLeft:"20%"}}>
+                <div className="bottom">
                 <div className="it"><img src={require('../img/dart.png')} alt="dart"/>DART</div>
                 <div className="it"><img src={require('../img/firebase.png')} alt="fireabse"/>FIREBASE</div>
+                <div className="it"><img src={require('../img/power-bi.png')} alt="power bi"/>Power BI</div>
                 <div className="it"><img src={require('../img/androidstudio.png')} alt="androidstudio"/>ANDROID<br/>STUDIO</div>
                 <div className="it"><img src={require('../img/vscode.png')} alt="vscode"/>VISUAL<br/>STUDIO</div>
-                <div className="it"><img src={require('../img/github.png')} alt="ghub"/>GITHUB</div>
+                <div className="it"><img src={require('../img/gitc.png')} alt="ghub"/>GIT</div>
                 </div>
             </div>
         </div>

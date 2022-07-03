@@ -31,7 +31,7 @@ const Intro = () => {
                 />
                 </div>
                 <p className="resume" >
-                   <a href='https://drive.google.com/file/d/1y_OM7r7KHvvDc1TFGp0pfgsVCPjOsBkt/view?usp=sharing'> Resume</a>
+                   <a href='https://drive.google.com/file/d/1ULXz6qqO9QJucFXM_LB7c9rjP7FpzwuQ/view?usp=sharing'> Resume</a>
                 </p>
             </div>
             <div className="ima">
